@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "workbook"
+categories: java_web
 ---
 
 # 7장 퍼시스턴스 프레임워크의 도입

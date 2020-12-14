@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "workbook"
+categories: java_web
 ---
 
 # chap05 mvc 아키텍처

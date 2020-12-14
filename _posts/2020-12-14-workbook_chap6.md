@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "workbook"
+categories: java_web
 ---
 
 # 6장 미니 MVC 프레임워크 만들기

@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "workbook"
+categories: java_web
 ---
 
 # 8장 스프링 IoC 컨테이너
