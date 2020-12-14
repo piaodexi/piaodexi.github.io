@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+hello i 'm parkdeokhee
+
+my dream is living happy 
+
+thank 
