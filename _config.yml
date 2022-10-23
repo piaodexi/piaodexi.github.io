@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: dexiLog                          # the main title
 
-tagline: iOS   # it will display as the sub-title
+tagline: backPacking   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   log..
